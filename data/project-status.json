@@ -1,0 +1,75 @@
+{
+  "general": {
+    "projectName": "Vadi Konakları",
+    "completionRate": 47,
+    "unitsSold": 21,
+    "constructionArea": 12500,
+    "whatsappLink": "https://wa.me/905550000000",
+    "phone": "+90 555 000 00 00"
+  },
+  "hero": {
+    "title": "Hayallerinizdeki Yaşam Başlıyor",
+    "subtitle": "Şehrin merkezinde, doğayla iç içe."
+  },
+  "apartmentTypes": [
+    {
+      "type": "1+1",
+      "size": "60 m²",
+      "remaining": 7,
+      "images": [
+        { "label": "Salon", "src": "/images/plan-2-1.jpg" },
+        { "label": "Mutfak", "src": "/images/plan-2-1.jpg" },
+        { "label": "Yatak Odası", "src": "/images/plan-2-1.jpg" }
+      ]
+    },
+    {
+      "type": "2+1",
+      "size": "95 m²",
+      "remaining": 4,
+      "images": [
+        { "label": "Salon", "src": "/images/plan-2-1.jpg" },
+        { "label": "Mutfak", "src": "/images/plan-2-1.jpg" },
+        { "label": "Yatak Odası", "src": "/images/plan-2-1.jpg" }
+      ]
+    },
+    {
+      "type": "3+1",
+      "size": "140 m²",
+      "remaining": 2,
+      "images": [
+        { "label": "Salon", "src": "/images/plan-2-1.jpg" },
+        { "label": "Mutfak", "src": "/images/plan-2-1.jpg" },
+        { "label": "Yatak Odası", "src": "/images/plan-2-1.jpg" }
+      ]
+    }
+  ],
+  "location": {
+    "description": "Metroya 5 dk, AVM'ye 2 dk yürüme mesafesinde.",
+    "mapImage": "/images/konum.jpg",
+    "metrics": {
+      "metro": { "label": "Metro", "walkMin": 5 },
+      "bus": { "label": "Otobüs Durağı", "walkMin": 2 },
+      "center": { "label": "Şehir Merkezi", "walkMin": 18, "driveMin": 6 }
+    }
+  },
+  "contacts": [
+    {
+      "name": "Ahmet Yılmaz",
+      "role": "Satış Danışmanı",
+      "phone": "+90 555 111 11 11",
+      "whatsapp": "+90 555 111 11 11"
+    },
+    {
+      "name": "Elif Demir",
+      "role": "Proje Uzmanı",
+      "phone": "+90 555 222 22 22",
+      "whatsapp": "+90 555 222 22 22"
+    },
+    {
+      "name": "Mert Kaya",
+      "role": "Satış Müdürü",
+      "phone": "+90 555 333 33 33",
+      "whatsapp": "+90 555 333 33 33"
+    }
+  ]
+}
