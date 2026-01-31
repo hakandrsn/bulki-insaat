@@ -1,37 +1,27 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+🏗️ Bulki İnşaat Web Sitesi
+Bulki İnşaat için geliştirilmiş; firmanın projelerini, hizmetlerini ve kurumsal kimliğini modern bir arayüzle sunan web projesi.
 
-## Getting Started
+Bu proje, yüksek performans (SEO) ve modern web standartları gözetilerek Next.js 14 altyapısı ile hazırlanmıştır.
 
-First, run the development server:
+🌐 Canlı Demo (Live)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+⚡ Özellikler
+Modern Mimari: Next.js App Router yapısı.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Responsive Tasarım: Mobil, tablet ve masaüstü uyumlu arayüz.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Performans: Server Side Rendering (SSR) ile hızlı açılış süreleri ve SEO optimizasyonu.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Tip Güvenliği: Tamamen TypeScript ile geliştirildi.
 
-## Learn More
+Stil: (Tahminen TailwindCSS veya CSS Modules kullandıysan buraya yazabilirsin, yoksa boş bırak)
 
-To learn more about Next.js, take a look at the following resources:
+🛠️ Teknoloji Yığını (Tech Stack)
+Framework: Next.js 14
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Dil: TypeScript
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Deployment: Vercel
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# bulki-insaat
+👨‍💻 Geliştirici
+Hakan Dursun - Full-Stack Developer
